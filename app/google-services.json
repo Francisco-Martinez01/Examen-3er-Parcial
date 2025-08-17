@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "684965166200",
+    "project_id": "examen3erp-999ce",
+    "storage_bucket": "examen3erp-999ce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684965166200:android:48f7219bfd9ffdce4e418d",
+        "android_client_info": {
+          "package_name": "com.android.examen3erp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL4GQPoSsLmIQPFGibk636E1Dq6F3K5aw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
